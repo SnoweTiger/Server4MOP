@@ -1,0 +1,36 @@
+{
+	"code": 0,
+	"data": {
+		"image": {
+			"url": ""
+		},
+		"voices": [
+			{
+				"icon": "https://ksyru0-eco.fds.api.xiaomi.com/productinfo/mi1c/voices/images/english.png",
+				"listen": "https://ksyru0-eco.fds.api.xiaomi.com/productinfo/mi1c/voices/listen/start_clean_en.mp3",
+				"name": {
+				    "default":"English"
+				},
+				"desc":{
+				},
+				"download":"https://ksyru0-eco.fds.api.xiaomi.com/productinfo/mi1c/voices/package/EN.tar.gz",
+				"md5sum": "2f65db2e52b6b7e9203ed965edc3c2f5",
+				"size":1161119,
+				"id": "EN"
+			},
+			{
+				"icon": "https://ksyru0-eco.fds.api.xiaomi.com/productinfo/mi1c/voices/images/ru.png",
+				"listen": "https://ksyru0-eco.fds.api.xiaomi.com/productinfo/mi1c/voices/listen/start_clean_ru.mp3",
+				"name": {
+				    "default":"русский язык"
+				},
+				"desc":{
+				},
+				"download": "https://ksyru0-eco.fds.api.xiaomi.com/productinfo/mi1c/voices/package/ru.tar.gz",
+				"md5sum": "28c851a6352257476d16a8bb42e8aed7",
+				"size":1125041,
+				"id": "RU"
+			}
+		]
+	}
+}
