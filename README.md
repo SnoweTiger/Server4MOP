@@ -1,5 +1,6 @@
 # Server4MOP
 Script for generate and serve soundpackages for Xiaomi MOP 1C STYTJ01ZHM
+
 Скрипт для создавать и раздачи звуковые пакеты для Xiaomi 1C / MOP STYTJ01ZHM
 
 Requirements / Требования:
